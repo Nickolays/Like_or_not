@@ -99,7 +99,7 @@ class Like_or_not:
         """
         Покажет необходимые версии библиотек для работы с классом
         """
-        print(f'Your pandas version is {pd.__version__}, needed: 1.4.0 and more')
+        print(f'Your pandas version is {pd.__version__}, needed: 1.3.0 and more')
         print(f'Your numpy version is {np.__version__}, needed: 1.21.5 and more')
         print(f'Your numpy version is {sklearn.__version__}, needed: 1.0.2 and more')
         print(f'Your numpy version is {tqdm.__version__}, needed: 4.62.3 and more')
